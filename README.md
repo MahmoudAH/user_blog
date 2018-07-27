@@ -5,6 +5,11 @@
 This project represents a multi user blog with possibilities to create posts and comments. Users also can like posts.
 
 ## frameworks and technologies used
+1- Bootstrap
+2- jQuery 
+3- Google App Engine
+4- WTForms
+5- PyCrypto
 
 
 ## to run
